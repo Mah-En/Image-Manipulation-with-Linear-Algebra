@@ -1,6 +1,5 @@
 # Image Analysis and Processing Report
 
-**Author:** Mahla Entezari 
 **Date:** November, 2023  
 
 ## 📌 Project Description
